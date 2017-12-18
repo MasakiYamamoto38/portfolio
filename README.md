@@ -24,7 +24,9 @@ PDF形式でポートフォリオまたは自己紹介資料をダウンロー�
 ### Mondrian Puzzle
 
 ピエト・モンドリアンのコンポジションシリーズ（抽象画）を考慮したiPad向けパズルゲーム
-app storeにて[配信中](https://itunes.apple.com/us/app/mondrian-puzzle/id1217719389?mt=8)です。
+
+[app storeにて配信中です！](https://itunes.apple.com/us/app/mondrian-puzzle/id1217719389?mt=8)
+
 作品について詳しくは、自己紹介資料もしくはポートフォリオをご覧ください。
 
 ### DKI
