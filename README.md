@@ -19,6 +19,28 @@ PDF形式でポートフォリオまたは自己紹介資料をダウンロー�
 
 [2017年12月17日掲載（作成2017年10月頃）](/portfolio/MasakiYamamoto_10610261740.pdf)
 
+
+## 技術
+
+### プログラミング
+
+* Swift
+ * iOS
+ * macOS
+ 
+ * Ruby on Rails
+ 
+* C# .NET Framework
+ * Windowフォームアプリケーション
+ * WPF
+
+### デザイン
+* 印刷物（Adobe Illustrator, InDesign）
+ * A4,B5チラシ - A0長尺看板まで
+ * パンフレット
+* UIデザイン (html + css, sketch, Adobe XD, Illustrator )
+* UXデザイン
+
 ## その他、Web上での公開物
 
 ### Mondrian Puzzle
