@@ -23,6 +23,8 @@ PDF形式でポートフォリオまたは自己紹介資料をダウンロー�
 
 ### Mondrian Puzzle
 
+![Mondrian Puzzle icon](/img/mondrian_icon.png)
+
 ピエト・モンドリアンのコンポジションシリーズ（抽象画）を考慮したiPad向けパズルゲーム
 
 [app storeにて配信中です！](https://itunes.apple.com/us/app/mondrian-puzzle/id1217719389?mt=8)
